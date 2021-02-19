@@ -52,6 +52,11 @@ palavras %>%
   labs(x = 'Top 20 palavras mais comuns', y = 'Contagem') +
   theme_minimal()
 
+# Grafico de nuvem de palavras com as 30 palavras mais comuns
+wordcloud(palavras$texto, 
+          max.words = 30,
+          color = '#5165C7')
+
 # Grafico com as 20 palavras mais comuns promotores
 palavras %>%
   filter(Perfil == 'Promoters') %>%
