@@ -1,9 +1,9 @@
 # Análise de sentimento com R aplicado a dados de uma pesquisa NPS
-Esse projeto tem como objetivo analisar o texto e o sentimento de uma pesquisa de NPS e identificar o sentimento passado por promotores e detratores. As respostas são reais e foram coletadas no ano de 2018 a 2020, foi retirada das respostas qualquer identificação possível da empresa e de seus produtos. Para fazer as análises vamos utilizar a linguagem R e alguns pacotes da linguagem.
+Esse projeto tem como objetivo analisar o texto e o sentimento de uma pesquisa de NPS e identificar o sentimento passado por promotores e detratores. As respostas são reais e foram coletadas no ano de 2018 a 2020. Foram retiradas das respostas qualquer identificação possível da empresa e de seus produtos. Para fazer as análises vamos utilizar a linguagem R e alguns pacotes da linguagem.
 
 Análise de sentimento é algo que está em alta atualmente, muito se fala em analisar o sentimentos dos comentários recebidos pelas empresas. Saber se o cliente transmite por meio das palavras escritas um sentimento mais positivo ou negativo da sua marca é muito importante para a saúde da sua empresa.
 
-Coso tenha interesse escrevi esse [artigo](https://medium.com/@rhany.marinho/an%C3%A1lise-de-sentimento-com-r-aplicado-a-dados-de-pesquisa-nps-363d315351f9) mostrando todos os passos realizados nessa análise.
+Caso tenha interesse escrevi esse [artigo](https://medium.com/@rhany.marinho/an%C3%A1lise-de-sentimento-com-r-aplicado-a-dados-de-pesquisa-nps-363d315351f9) mostrando todos os passos realizados nessa análise.
 
 ## Pré-requisitos
 Para executar o projeto, é necessário os seguintes programas:
